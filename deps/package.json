@@ -9,7 +9,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "handlebars-loader": "0.1.0",
+        "handlebars-loader": "0.1.1",
         "webpack": "1.0.5"
     }
 }
